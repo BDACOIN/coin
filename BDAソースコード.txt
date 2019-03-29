@@ -1,4 +1,4 @@
-pragma solidity ^0.4.25;
+﻿pragma solidity ^0.4.25;
 
 /**
  * @title BDACoin
@@ -83,7 +83,7 @@ contract Ownable {
 
 
 /**
- * a?!(^)(^)
+ * å½¡(^)(^)
  * @title ERC223
  * @dev ERC223 contract interface with ERC20 functions and events
  *      Fully backward compatible with ERC20
