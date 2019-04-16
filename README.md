@@ -8,7 +8,7 @@
 
 ## テストネット(rinkeby)用 BLACK DIA COIN
 
-* https://rinkeby.etherscan.io/token/0xe067433833636d2a5aCBb42a219C7A97651E63Bd
+* https://rinkeby.etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd
 
 
 ---
