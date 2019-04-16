@@ -4,8 +4,6 @@
 
 ## 本番イーサネット用 BLACK DIA COIN
 
-## 本番イーサネット用 BLACK DIA COIN
-
 * https://etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd
 
 ## テストネット(rinkeby)用 BLACK DIA COIN
