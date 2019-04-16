@@ -1,6 +1,6 @@
 # BDA (BLACK DIA COIN) ver 2.0
 
-* コイン関連のファイルの場所
+* コインの情報の場所
 
 ## 本番イーサネット用 BLACK DIA COIN
 
@@ -16,7 +16,7 @@
 
 # BDA (BLACK DIA COIN) ver 1.0
 
-* コイン関連のファイルの場所
+* コインの情報の場所
 
 ## 本番イーサネット用 BLACK DIA COIN
 
