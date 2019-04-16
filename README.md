@@ -4,11 +4,18 @@
 
 ## 本番イーサネット用 BLACK DIA COIN
 
-* https://etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---|
+|URL |https://etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd |
+|コントラクト|0xe067433833636d2a5acbb42a219c7a97651e63bd |
+|桁数 |8 |
 
 ## テストネット(rinkeby)用 BLACK DIA COIN
 
-* https://rinkeby.etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd
+|:---|:---|
+|URL |https://rinkeby.etherscan.io/token/0xe067433833636d2a5acbb42a219c7a97651e63bd |
+|コントラクト|0xe067433833636d2a5acbb42a219c7a97651e63bd |
+|桁数 |8 |
 
 
 ---
